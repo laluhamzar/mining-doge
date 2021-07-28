@@ -1,5 +1,6 @@
 # mining-doge
 https://unmineable.com/?ref=yvia-qybd
+
 {
     "api": {
         "id": null,
